@@ -1,0 +1,39 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.table-wrapper {
+    margin-bottom: 20px;
+  }
+.headtab{
+    background-color: rgb(38, 53, 92) !important;
+    color: bisque !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+.form-label{
+    font-size: 20px; 
+    color:rgb(7, 52, 104);
+}
+  .Thead{
+    display: inline-block;
+    font-size: 24px;
+    padding: 0px 10px;
+    background-color: rgb(16, 66, 82);
+    color: bisque;
+  }
+  .total-amount {
+    text-align: right;
+    padding-right: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  .amount-value {
+    background-color: rgb(7, 21, 51);
+    color: #f7a833;
+    font-size: 22px;
+    font-weight: 600;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    display: inline-block;
+  }
